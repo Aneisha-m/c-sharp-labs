@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Loops\Loops\obj\Debug\Loops.pdb

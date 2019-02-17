@@ -1,0 +1,2 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LoopsLab\LoopsLab\obj\Debug\LoopsLab.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LoopsLab\LoopsLab\obj\Debug\LoopsLab.csproj.CoreCompileInputs.cache

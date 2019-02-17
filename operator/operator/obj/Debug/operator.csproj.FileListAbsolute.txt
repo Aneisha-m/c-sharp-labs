@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\bin\Debug\@operator.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\bin\Debug\@operator.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\bin\Debug\@operator.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\obj\Debug\operator.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\obj\Debug\operator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\obj\Debug\@operator.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\operator\operator\obj\Debug\@operator.pdb
