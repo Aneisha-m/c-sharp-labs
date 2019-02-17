@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\bin\Debug\LabBreakPoints.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\bin\Debug\LabBreakPoints.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\bin\Debug\LabBreakPoints.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\obj\Debug\LabBreakPoints.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\obj\Debug\LabBreakPoints.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\obj\Debug\LabBreakPoints.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\LabBreakPoints\LabBreakPoints\obj\Debug\LabBreakPoints.pdb

@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

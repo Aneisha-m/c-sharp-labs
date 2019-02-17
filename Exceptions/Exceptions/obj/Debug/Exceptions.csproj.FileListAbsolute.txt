@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

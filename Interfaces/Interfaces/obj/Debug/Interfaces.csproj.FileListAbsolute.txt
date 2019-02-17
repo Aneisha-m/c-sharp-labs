@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
